@@ -1,4 +1,4 @@
-# BirthDay-Bulk-Email-Using-PHPMailer
+# BirthDay-Bulk-Email-Using-PHPMailer-MySQL
 This is my own revised version of *PHPMailer/examples /mailing_list*  @ https://github.com/PHPMailer/PHPMailer/blob/master/examples/mailing_list.phps
 
 ## My version is a mass email sent as birthday message
